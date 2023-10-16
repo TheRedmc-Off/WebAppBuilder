@@ -2,8 +2,15 @@
 
 This new project is a website to app tool created with python and Nativefier npm package.
 This is my second github repo!
-This script is only compatible with Windows 10 or 11 (or any Windows OS that is up-to-date and where latest NodeJS version is installed).
-This script is NOT compatible with other OS than Windows! It builds .EXE files and dependencies that are only compatible with this OS.
+
+
+## Warnings
+
+- This script is only compatible with Windows 10 or 11 (or any Windows OS that is up-to-date and where latest NodeJS version is installed).
+
+- This script is NOT compatible with other OS than Windows! It builds .EXE files and dependencies that are only compatible with this OS.
+
+- The Web-App that you built with this tool needs to be deleted and rebuilt after a long time in order to update the Chromium libs and to keep it functionning!
 
 
 
@@ -40,23 +47,43 @@ You can contact me at theredmc67@gmail.com (it is just my alt and old gmail lmao
 ## Screenshots
 
 
+# The Installation / Update of the npm Nativefier library
+
+![Installation Update](/img/InstallUpdate.png?raw=true "Installation Update")
+
+# Install / Update Process of Nativefier
+
+![IUProcess](/img/InstallationProcess.png?raw=true "IUProcess")
+
 ### The main menu
 Theo Herbst is my irl name, so it's my own code!
 
 ![Main Menu](/img/MainMenu.png?raw=true "Main menu")
 
-### The Generation process
+### Building the Web-App
 
-![Generator](/img/Generator.png?raw=true "Generator")
+![BuildWA](/img/Building.png?raw=true "BuildWA")
 
 ### The created file
 
-![File Created in Documents folder](/img/File.png?raw=true "File")
+![BuildSuccess](/img/BuiltSuccessfully.png?raw=true "BuildSuccess")
 
-# The text stored inside the file
 
-![Passwords stored in the text file](/img/SavedText.png?raw=true "Saved text")
+# Created Folder
+
+![Folder](/img/Folder.png?raw=true "Folder")
+
+
+# Inside the folder
+
+![InsideFolder](/img/FolderContent.png?raw=true "InsideFolder")
+
+
+# The Web-App that has been built
+
+![App](/img/WebApp.png?raw=true "App")
+
 
 ## Contributing
-Feel free to fork or edit this repo code, it is open-source, but please mention me!!!
-You can also create some pull requests
+Feel free to fork or edit this repo code, it is open-source, but please mention me if you showcase it or publish it!
+You can do some pull requests too
