@@ -3,6 +3,13 @@
 This new project is a website to app tool created with python and Nativefier npm package.
 This is my second github repo!
 
+## About Nativefier package
+
+This package was published and created by Jiahaog (I think) under the username of @nativefier
+
+- Package Link: https://github.com/nativefier/nativefier
+
+- User Link: https://github.com/nativefier
 
 ## Warnings
 
@@ -64,7 +71,7 @@ Theo Herbst is my irl name, so it's my own code!
 
 ![BuildWA](/img/Building.png?raw=true "BuildWA")
 
-### The created file
+### The App has been built successfully
 
 ![BuildSuccess](/img/BuiltSuccessfully.png?raw=true "BuildSuccess")
 
