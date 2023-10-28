@@ -34,7 +34,7 @@ This package was published and created by Jiahaog (I think) under the username o
 
 ## Installation
 
-Download the latest release or download source code to compile it
+Download the latest release or download source code and run it bu using `python WebAppBuilder.py`
     
 ## Running Tests
 
@@ -48,7 +48,7 @@ To run debugging tests, just take the source code and run the file in any python
 
 ## Support
 
-You can contact me at theredmc67@gmail.com (it is just my alt and old gmail lmao)
+You can contact me at theredmc67@gmail.com
 
 
 ## Screenshots
