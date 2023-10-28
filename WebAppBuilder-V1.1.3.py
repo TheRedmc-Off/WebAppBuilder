@@ -4,8 +4,6 @@ import sys
 
 desktop = os.path.normpath(os.path.expanduser("~/Desktop"))
 
-#fini
-
 Bl='\033[30m'
 Re='\033[1;31m'
 Gr='\033[1;32m'
@@ -65,7 +63,7 @@ def banner():
            \/           |__|   |__|           \/                    \/ 
                {Wh}Electron-based Web app builder --- V1.1.3
     
-    <-Coded by Theo Herbst->
+    <-Coded by TheRedmc-Off->
     """)
 
 def main():
